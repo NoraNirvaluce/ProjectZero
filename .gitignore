@@ -13,3 +13,7 @@ StarterContent
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/StarterContent/Maps/Minimal_Default.umap
+Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+Content/StarterContent/Maps/StarterMap.umap
+Content/StarterContent/Maps/StarterMap_BuiltData.uasset
