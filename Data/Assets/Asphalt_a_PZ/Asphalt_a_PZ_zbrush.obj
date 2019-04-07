@@ -1,0 +1,17 @@
+# OBJ written from C:\Users\cleme\OneDrive\Documents\3D\ProjectZero\Data\Assets\Asphalt_a_PZ\Asphalt_a_PZ_zbrush.obj
+# Units	meters
+
+o asphalt_a_PZ
+v -1 0 1
+v -1 0 -1
+v 1 0 1
+v 1 0 -1
+vn 0 1 0
+vt 1 1.15911e-007
+vt 1 1
+vt -2.48706e-008 1
+vt -2.48706e-008 1.15911e-007
+mtllib Asphalt_a_PZ_zbrush.mtl
+usemtl Asphalt_a_PZ_mat
+g Default
+f 3/1/1 4/2/1 2/3/1 1/4/1
