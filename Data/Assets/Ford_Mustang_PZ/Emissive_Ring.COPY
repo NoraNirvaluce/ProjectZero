@@ -1,0 +1,14 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="Emissive_Ring"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=EE2DDA984DFEFA3AEE7259883F8DF232
+   Parent=Material'"/Game/ring/ring_halo.ring_halo"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Emission"),ParameterValue=75.000000,ExpressionGUID=B18345B54EE6E706E9E0998E2744756B)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="color"),ParameterValue=(R=0.430846,G=0.000000,B=0.682292,A=0.000000),ExpressionGUID=BC932B8A4CAB2CB3F3D47486A4F91018)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=3249E1914C30DE5EA9F7499DFFFB632F
+End Object
